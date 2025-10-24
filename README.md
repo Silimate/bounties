@@ -6,6 +6,7 @@ This is a list of open-source bounties that would be useful to Silimate. Please 
 
 - Run `abc` on different modules in parallel using process pool ($1000-3000)
 - Arithmetic optimization pass, either as part of `opt_expr -arith` or `opt_arith` or a peepopt ($2000-5000)
+- Make `timeest` pass work for combinational logic ($1000-2000)
 
 ## OpenSTA
 
