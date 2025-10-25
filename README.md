@@ -34,7 +34,9 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 ## Open-source Liaison
 
-We have many changes in our forks that we would like to upstream but do not have time to. If you get any of these upstreamed (making whatever edits are required by the project maintainers), you will earn a small reward ($50-100/item, depending on complexity).
+We regularly upstream our features/bugfixes to keep our changes in sync and get feedback from maintainers.
+
+However, we currently have a large number of changes in our forks that we would like to upstream but do not have time to do ourselves. If you are able to upstream any of these (plus whatever edits are required by the project maintainers), you will earn a small reward ($50-100/item, depending on complexity, please discuss with us).
 
 ### Yosys
 
@@ -90,6 +92,5 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 
 - [ ] FEATURE: Input/output internal power
 - [ ] FEATURE: Reporting: deduplicate by word
-- [ ] FEATURE: More properties
 - [ ] FEATURE: Report power as JSON
 - [ ] FEATURE: Strip escaped bus
