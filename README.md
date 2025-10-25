@@ -22,10 +22,10 @@ This is a list of open-source bounties that would be useful to Silimate. Please 
 
 ## SV Tests
 
-- Add `ChiGen` tests to `sv-tests` ($500)
-- Add `ChiBench` tests to `sv-tests` ($500)
-- Add `verismith` tests to `sv-tests` ($500)
-- Add `vloghammer` tests to `sv-tests` ($500)
+- Add `ChiGen` tests to `sv-tests` ($250)
+- Add `ChiBench` tests to `sv-tests` ($250)
+- Add `verismith` tests to `sv-tests` ($250)
+- Add `vloghammer` tests to `sv-tests` ($250)
 
 ## Open-source Liaison
 
