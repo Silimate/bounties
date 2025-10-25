@@ -2,7 +2,7 @@
 
 This is a list of open-source bounties that would be useful to Silimate. Please contact akash@silimate.com or create an issue in this repo if you are interested in one of these, to align on success criteria and implementation strategy.
 
-Completion of one of the technical bounties worth >$1000 qualifies you for a final-round interview with Silimate, if you'd like to work with us.
+Completion of one of the technical bounties worth >$1000 qualifies you for a final-round interview with Silimate, if you'd like to apply for any full-time/intern position with us.
 
 ## Yosys
 
