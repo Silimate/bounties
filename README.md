@@ -80,3 +80,16 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [ ] FEATURE: `verific -set_vhdl_default_library_path`
 - [ ] FEATURE: `Verific mixed SV-VHDL support`
 
+### OpenSTA
+
+Upstream: https://github.com/parallaxsw/OpenSTA
+
+Fork: https://github.com/Silimate/OpenSTA
+
+Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA:main
+
+- [ ] FEATURE: Input/output internal power
+- [ ] FEATURE: Reporting: deduplicate by word
+- [ ] FEATURE: More properties
+- [ ] FEATURE: Report power as JSON
+- [ ] FEATURE: Strip escaped bus
