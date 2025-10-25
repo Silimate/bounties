@@ -12,7 +12,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 ## ABC
 
-- [ ] [Retain original node associations while running optimization commands](abc/abc-node-associations.md) ($5000-10000)
+- [ ] [Retain original node associations while running optimization commands](abc/node-associations.md) ($5000-10000)
 
 ## OpenSTA
 
