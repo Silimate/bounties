@@ -1,4 +1,4 @@
-# Retain original node associations while running optimization commands
+# Retain original node associations while running commands
 
 In `abc`, it is difficult to know how the final graph nodes are related to the original nodes.
 
