@@ -8,7 +8,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 - [ ] [Run `abc` on different modules in parallel](yosys/abc-module-parallelism.md) ($1000-3000)
 - [ ] [Arithmetic optimization pass](yosys/arith-opt-pass.md) ($2000-6000)
-- [ ] [Make `timeest` pass work for combinational logic](yosys/timeest-comb.md) ($1000-2000)
+- [x] [Make `timeest` pass work for combinational logic](yosys/timeest-comb.md) ($1000-2000): claimed by `povik`
 
 ## ABC
 
@@ -46,7 +46,6 @@ Fork: https://github.com/Silimate/yosys
 
 Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 
-- [ ] BUGFIX: undef ID
 - [ ] BUGFIX: Verific run-test.sh
 - [ ] BUGFIX: Various logger_cmd_error.sh test
 - [ ] BUGFIX: Xilinx abc9_dff test
