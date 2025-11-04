@@ -80,7 +80,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [ ] FEATURE: `verific -set_relaxed_file_libext_modes`
 - [ ] FEATURE: `verific -ignore_module`
 - [ ] FEATURE: `verific -set_vhdl_default_library_path`
-- [ ] FEATURE: `Verific mixed SV-VHDL support`
+- [ ] FEATURE: Verific mixed SV-VHDL support
 
 ### OpenSTA
 
