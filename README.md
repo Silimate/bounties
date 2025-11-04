@@ -46,6 +46,7 @@ Fork: https://github.com/Silimate/yosys
 
 Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 
+- [x] BUGFIX: `undef ID` (claimed by [vs34](https://github.com/vs34))
 - [ ] BUGFIX: Verific run-test.sh
 - [ ] BUGFIX: Various logger_cmd_error.sh test
 - [ ] BUGFIX: Xilinx abc9_dff test
