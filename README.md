@@ -6,7 +6,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 ## Yosys
 
-- [x] [Run `abc` on different modules in parallel](yosys/abc-module-parallelism.md) ($1000-3000, implemented by [akashlevy](https://github.com/akashlevy)
+- [x] [Run `abc` on different modules in parallel](yosys/abc-module-parallelism.md) ($1000-3000, implemented by [akashlevy](https://github.com/akashlevy))
 - [ ] [Arithmetic optimization pass](yosys/arith-opt-pass.md) ($2000-6000)
 - [x] [Make `timeest` pass work for combinational logic](yosys/timeest-comb.md) ($1000, claimed by [povik](https://github.com/povik))
 
