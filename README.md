@@ -6,7 +6,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 ## Yosys
 
-- [ ] [Run `abc` on different modules in parallel](yosys/abc-module-parallelism.md) ($1000-3000)
+- [x] [Run `abc` on different modules in parallel](yosys/abc-module-parallelism.md) ($1000-3000, implemented by [akashlevy](https://github.com/akashlevy)
 - [ ] [Arithmetic optimization pass](yosys/arith-opt-pass.md) ($2000-6000)
 - [x] [Make `timeest` pass work for combinational logic](yosys/timeest-comb.md) ($1000, claimed by [povik](https://github.com/povik))
 
@@ -61,6 +61,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [ ] FEATURE: New naming scheme
 - [ ] FEATURE: src attribute propagation
 - [ ] FEATURE: `abc -word`
+- [ ] FEATURE: abc module-level parallelism
 - [ ] FEATURE: abc src back-annotation, SIGABRT on failures
 - [ ] FEATURE: `lut2mux -word`
 - [ ] FEATURE: `lut2bmux`
