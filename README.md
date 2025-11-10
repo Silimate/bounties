@@ -40,7 +40,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 We regularly upstream our features/bugfixes to keep our changes in sync and get feedback from maintainers.
 
-However, we currently have a large number of changes in our forks that we would like to upstream but do not have time to do ourselves. If you are able to upstream any of these (plus whatever edits are required by the project maintainers), you will earn a small reward ($50-100/item, depending on complexity, please discuss with us).
+However, we currently have a large number of changes in our forks that we would like to upstream but do not have time to do ourselves. If you are able to upstream any of these (plus whatever edits are required by the project maintainers), you will earn a small reward ($50-100/item, depending on complexity, please discuss with us; open to higher bounties depending on amount of work required).
 
 If you try to upstream one of these but it gets rejected, please contact us anyways. We may still pay out a partial bounty as a thank you (at our discretion).
 
@@ -53,41 +53,41 @@ Fork: https://github.com/Silimate/yosys
 Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 
 - [x] BUGFIX: `undef ID` ($50, claimed by [vs34](https://github.com/vs34))
-- [ ] BUGFIX: Verific run-test.sh
-- [x] BUGFIX: Various logger_cmd_error.sh test (fixed upstream already!)
-- [ ] BUGFIX: Xilinx abc9_dff test
-- [ ] BUGFIX: fstdata include
-- [ ] SMALLFIX: ice40_wrapcarry attribute abort fix (for src attribute...)
-- [ ] ADJUST: read -vlog2k  -->  read_verilog
-- [ ] ADJUST: Create pool from set in `hashlib`
-- [ ] FEATURE: New naming scheme
-- [ ] FEATURE: src attribute propagation
-- [ ] FEATURE: `abc -word`
-- [ ] FEATURE: abc module-level parallelism
-- [ ] FEATURE: abc src back-annotation, SIGABRT on failures
-- [ ] FEATURE: `lut2mux -word`
-- [ ] FEATURE: `lut2bmux`
-- [ ] FEATURE: `splitlarge`
-- [ ] FEATURE: `opt_balance_tree`
-- [ ] FEATURE: `breaksop`
-- [ ] FEATURE: `breakreduce`
-- [ ] FEATURE: `wreduce` traversal
-- [ ] FEATURE: `equiv -nocells`
-- [ ] FEATURE: `debugon`
-- [ ] FEATURE: `splitnets -ports_only -top_only`
-- [ ] FEATURE: Backtrace
-- [ ] FEATURE: `design.run_pass`
-- [ ] FEATURE: RTLIL dumping/hashing
-- [ ] FEATURE: Verilog backend split long lines
-- [ ] FEATURE: `verific -optimization`
-- [ ] FEATURE: `verific -no_split_complex_ports`
-- [ ] FEATURE: `verific -set_ignore_translate_off`
-- [ ] FEATURE: `verific -set_relaxed_checking`
-- [ ] FEATURE: `verific -set_relaxed_file_ext_modes`
-- [ ] FEATURE: `verific -set_relaxed_file_libext_modes`
-- [ ] FEATURE: `verific -ignore_module`
-- [ ] FEATURE: `verific -set_vhdl_default_library_path`
-- [ ] FEATURE: Verific mixed SV-VHDL support
+- [ ] BUGFIX: Verific `run-test.sh` ($50)
+- [x] BUGFIX: Various `logger_cmd_error.sh` test ($0, fixed upstream already!)
+- [ ] BUGFIX: Xilinx `abc9_dff` test ($50)
+- [ ] BUGFIX: `fstdata` include ($50)
+- [ ] SMALLFIX: `ice40_wrapcarry` attribute abort fix (for src attribute...)
+- [ ] ADJUST: `read -vlog2k`  -->  `read_verilog` ($50)
+- [ ] ADJUST: Create pool from set in `hashlib` ($50)
+- [ ] FEATURE: New naming scheme ($100)
+- [ ] FEATURE: src attribute propagation ($100)
+- [ ] FEATURE: `abc -word` ($50)
+- [ ] FEATURE: abc module-level parallelism ($100)
+- [ ] FEATURE: abc src back-annotation, SIGABRT on failures ($100)
+- [ ] FEATURE: `lut2mux -word` ($50)
+- [ ] FEATURE: `lut2bmux` ($50)
+- [ ] FEATURE: `splitlarge` ($50)
+- [ ] FEATURE: `opt_balance_tree` ($100)
+- [ ] FEATURE: `breaksop` ($50)
+- [ ] FEATURE: `breakreduce` ($50)
+- [ ] FEATURE: `wreduce` traversal ($100)
+- [ ] FEATURE: `equiv -nocells` ($50)
+- [ ] FEATURE: `debugon` ($50)
+- [ ] FEATURE: `splitnets -ports_only -top_only` ($75)
+- [ ] FEATURE: Backtrace ($50)
+- [ ] FEATURE: `design.run_pass` ($50)
+- [ ] FEATURE: RTLIL dumping/hashing ($50)
+- [ ] FEATURE: Verilog backend split long lines ($50)
+- [ ] FEATURE: `verific -optimization` ($50)
+- [ ] FEATURE: `verific -no_split_complex_ports` ($50)
+- [ ] FEATURE: `verific -set_ignore_translate_off` ($50)
+- [ ] FEATURE: `verific -set_relaxed_checking` ($50)
+- [ ] FEATURE: `verific -set_relaxed_file_ext_modes` ($50)
+- [ ] FEATURE: `verific -set_relaxed_file_libext_modes` ($50)
+- [ ] FEATURE: `verific -ignore_module` ($50)
+- [ ] FEATURE: `verific -set_vhdl_default_library_path` ($50)
+- [ ] FEATURE: Verific mixed SV-VHDL support ($100)
 
 ### OpenSTA
 
@@ -97,7 +97,7 @@ Fork: https://github.com/Silimate/OpenSTA
 
 Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA:main
 
-- [ ] FEATURE: Input/output internal power
-- [ ] FEATURE: Reporting: deduplicate by word
-- [ ] FEATURE: Report power as JSON
-- [ ] FEATURE: Strip escaped bus
+- [ ] FEATURE: Input/output internal power ($100)
+- [ ] FEATURE: Reporting: deduplicate by word ($100)
+- [ ] FEATURE: Report power as JSON ($100)
+- [ ] FEATURE: Strip escaped bus ($100)
