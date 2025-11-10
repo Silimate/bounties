@@ -24,7 +24,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 - [ ] [Support for Broadway backend instead of X11/XQuartz](gtkwave/broadway-backend.md) ($1000-3000)
 - [ ] [Support for Waveform Control Protocol (WCP)](gtkwave/wcp.md) ($1000-2000)
-- [ ] [Support for dynamically compiling/loading an FSDB extension](gtkwave/dynamic-fsdb.md) ($2000-3000)
+- [ ] [Support for dynamically compiling/loading an FSDB extension OR create a fast `fsdb2fst`](gtkwave/dynamic-fsdb.md) ($2000-3000)
 
 ## Nuitka
 
