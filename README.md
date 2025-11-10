@@ -42,6 +42,8 @@ We regularly upstream our features/bugfixes to keep our changes in sync and get 
 
 However, we currently have a large number of changes in our forks that we would like to upstream but do not have time to do ourselves. If you are able to upstream any of these (plus whatever edits are required by the project maintainers), you will earn a small reward ($50-100/item, depending on complexity, please discuss with us).
 
+If you try to upstream one of these but it gets rejected, please contact us anyways. We may still pay out a partial bounty as a thank you (at our discretion).
+
 ### Yosys
 
 Upstream: https://github.com/YosysHQ/yosys
