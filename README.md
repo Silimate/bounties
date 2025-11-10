@@ -52,7 +52,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 
 - [x] BUGFIX: `undef ID` ($50, claimed by [vs34](https://github.com/vs34))
 - [ ] BUGFIX: Verific run-test.sh
-- [ ] BUGFIX: Various logger_cmd_error.sh test
+- [x] BUGFIX: Various logger_cmd_error.sh test (fixed upstream already!)
 - [ ] BUGFIX: Xilinx abc9_dff test
 - [ ] BUGFIX: fstdata include
 - [ ] SMALLFIX: ice40_wrapcarry attribute abort fix (for src attribute...)
