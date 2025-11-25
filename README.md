@@ -42,6 +42,8 @@ We regularly upstream our features/bugfixes to keep our changes in sync and get 
 
 However, we currently have a large number of changes in our forks that we would like to upstream but do not have time to do ourselves. If you are able to upstream any of these (plus whatever edits are required by the project maintainers), you will earn a small reward ($50-100/item, depending on complexity, please discuss with us; open to higher bounties depending on amount of work required).
 
+**IMPORTANT NOTE: IF IT'S YOUR FIRST TIME UPSTREAMING AND/OR YOU ARE UNSURE ABOUT WHICH PARTS SHOULD BE UPSTREAMED, PLEASE CREATE AN ISSUE SO WE CAN DISCUSS.**
+
 If you try to upstream one of these but it gets rejected, please contact us anyways. We may still pay out a partial bounty as a thank you (at our discretion).
 
 ### Yosys
@@ -54,7 +56,6 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 
 - [x] BUGFIX: `undef ID` ($50, claimed by [vs34](https://github.com/vs34), to be paid out)
 - [ ] BUGFIX: Verific `run-test.sh` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
-- [ ] BUGFIX: Xilinx `abc9_dff` test ($50)
 - [ ] SMALLFIX: `ice40_wrapcarry` attribute abort fix (for src attribute...)
 - [x] ADJUST: `read -vlog2k`  -->  `read_verilog` ($20, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), rejected upstream)
 - [ ] ADJUST: Create pool from set in `hashlib` ($50)
