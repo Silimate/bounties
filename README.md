@@ -56,7 +56,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [ ] BUGFIX: Verific `run-test.sh` ($50)
 - [ ] BUGFIX: Xilinx `abc9_dff` test ($50)
 - [ ] SMALLFIX: `ice40_wrapcarry` attribute abort fix (for src attribute...)
-- [ ] ADJUST: `read -vlog2k`  -->  `read_verilog` ($50)
+- [x] ADJUST: `read -vlog2k`  -->  `read_verilog` (rejected upstream)
 - [ ] ADJUST: Create pool from set in `hashlib` ($50)
 - [ ] FEATURE: New naming scheme ($100)
 - [ ] FEATURE: src attribute propagation ($100)
