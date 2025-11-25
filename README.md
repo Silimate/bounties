@@ -55,7 +55,7 @@ Fork: https://github.com/Silimate/yosys
 Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 
 - [x] BUGFIX: `undef ID` ($50, claimed by [vs34](https://github.com/vs34), to be paid out)
-- [ ] BUGFIX: Verific `run-test.sh` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
+- [x] BUGFIX: Verific `run-test.sh` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [ ] SMALLFIX: `ice40_wrapcarry` attribute abort fix (for src attribute...)
 - [x] ADJUST: `read -vlog2k`  -->  `read_verilog` ($20, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), rejected upstream)
 - [ ] ADJUST: Create pool from set in `hashlib` ($50)
