@@ -94,7 +94,7 @@ Fork: https://github.com/Silimate/OpenSTA
 
 Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA:main
 
-- [ ] FEATURE: Support for hierarchical object search with slashes ($100)
+- [ ] FEATURE: Support for hierarchical object search with slashes ($50)
 - [ ] FEATURE: Input/output internal power ($100)
 - [ ] FEATURE: Reporting: deduplicate by word ($100)
 - [ ] FEATURE: Report power as JSON ($100)
