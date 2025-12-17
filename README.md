@@ -16,7 +16,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 ## OpenSTA
 
-- [x] [Prune CCS information from Liberty files to load them faster](opensta/liberty-ccs-pruning.md) ($1000-2000, claimed by [vs34](https://github.com/vs34), in review)
+- [x] [Prune CCS information from Liberty files to load them faster](opensta/liberty-ccs-pruning.md) ($1000-2000, claimed by [vs34](https://github.com/vs34), being reviewed/validated)
 - [ ] [Support for fast object collections](opensta/fast-collections.md): see https://www.intel.com/content/www/us/en/docs/programmable/683243/21-3/collection-commands.html ($1000-3000)
 - [x] [Support for hierarchical object search with slashes](opensta/hier-obj-search.md) ($1000, claimed by [AdvaySingh1](https://github.com/AdvaySingh1), to be paid out)
 
