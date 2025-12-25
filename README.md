@@ -101,7 +101,7 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 - [ ] FEATURE: Strip escaped bus ($100)
 - [ ] FEATURE: Support for Liberty generated clocks, see https://github.com/Silimate/OpenSTA/pull/28 and https://github.com/Silimate/OpenSTA/pull/30 ($100)
 
-## Balances
+## Balances/Leaderboard
 
 | Username          | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-------------------|-------------------|--------------------|--------------|--------------|
