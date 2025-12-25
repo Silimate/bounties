@@ -97,5 +97,5 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 - [ ] FEATURE: Support for hierarchical object search with slashes ($50)
 - [ ] FEATURE: Input/output internal power ($100)
 - [ ] FEATURE: Reporting: deduplicate by word ($100)
-- [ ] FEATURE: Report power as JSON ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
+- [x] FEATURE: Report power as JSON ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [ ] FEATURE: Strip escaped bus ($100)
