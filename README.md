@@ -6,7 +6,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 ## Yosys
 
-- [x] [Run `abc` on different modules in parallel](yosys/abc-module-parallelism.md) ($1000-3000, implemented by [akashlevy](https://github.com/akashlevy))
+- [x] [Run `abc` on different modules in parallel](yosys/abc-module-parallelism.md) (implemented by [akashlevy](https://github.com/akashlevy))
 - [ ] [Arithmetic optimization pass](yosys/arith-opt-pass.md) ($2000-6000)
 - [x] [Make `timeest` pass work for combinational logic](yosys/timeest-comb.md) ($1000, claimed by [povik](https://github.com/povik), being reviewed/validated)
 
@@ -17,7 +17,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 ## OpenSTA
 
 - [x] [Prune CCS information from Liberty files to load them faster](opensta/liberty-ccs-pruning.md) ($1000, claimed by [vs34](https://github.com/vs34), being reviewed/validated)
-- [ ] [Support for fast object collections](opensta/fast-collections.md): see https://www.intel.com/content/www/us/en/docs/programmable/683243/21-3/collection-commands.html ($1000-3000)
+- [x] [Support for fast object collections](opensta/fast-collections.md): see https://www.intel.com/content/www/us/en/docs/programmable/683243/21-3/collection-commands.html (being implemented by [donn](https://github.com/donn)
 - [x] [Support for hierarchical object search with slashes](opensta/hier-obj-search.md) ($1000, claimed by [AdvaySingh1](https://github.com/AdvaySingh1), to be paid out)
 
 ## GTKWave
