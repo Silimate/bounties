@@ -109,3 +109,4 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 | AdvaySingh1       | $0                | $1000              | $0           | $1000        |
 | povik             | $1000             | $0                 | $0           | $1000        |
 | nataliakokoromyti | $0                | $200               | $0           | $200         |
+| dhvll             | $50               | $0                 | $0           | $50          |
