@@ -76,7 +76,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [ ] FEATURE: `design.run_pass` ($50)
 - [ ] FEATURE: RTLIL dumping/hashing ($50)
 - [ ] FEATURE: Verilog backend split long lines ($50)
-- [ ] FEATURE: `verific -optimization` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
+- [x] FEATURE: `verific -optimization` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
 - [ ] FEATURE: `verific -no_split_complex_ports` ($50)
 - [ ] FEATURE: `verific -set_ignore_translate_off` ($50)
 - [ ] FEATURE: `verific -set_relaxed_checking` ($50)
