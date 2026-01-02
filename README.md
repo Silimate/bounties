@@ -12,7 +12,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 ## ABC
 
-- [x] [Retain original node associations while running optimization commands](abc/node-associations.md) (being implemented by [AdvaySingh1](https://github.com/AdvaySingh1) and [povik](https://github.com/povik) in parallel)
+- [x] [Retain original node associations while running optimization commands](abc/node-associations.md) (being implemented by [AdvaySingh1](https://github.com/AdvaySingh1))
 
 ## OpenSTA
 
@@ -76,7 +76,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [ ] FEATURE: `design.run_pass` ($50)
 - [ ] FEATURE: RTLIL dumping/hashing ($50)
 - [ ] FEATURE: Verilog backend split long lines ($50)
-- [ ] FEATURE: `verific -optimization` ($50)
+- [ ] FEATURE: `verific -optimization` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
 - [ ] FEATURE: `verific -no_split_complex_ports` ($50)
 - [ ] FEATURE: `verific -set_ignore_translate_off` ($50)
 - [ ] FEATURE: `verific -set_relaxed_checking` ($50)
