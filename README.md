@@ -16,7 +16,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 ## OpenSTA
 
-- [x] [Prune CCS information from Liberty files to load them faster](opensta/liberty-ccs-pruning.md) ($1000, claimed by [vs34](https://github.com/vs34), being reviewed/validated)
+- [x] [Prune CCS information from Liberty files to load them faster](opensta/liberty-ccs-pruning.md) ($1000, claimed by [vs34](https://github.com/vs34), to be paid out)
 - [x] [Support for fast object collections](opensta/fast-collections.md): see https://www.intel.com/content/www/us/en/docs/programmable/683243/21-3/collection-commands.html (being implemented by [donn](https://github.com/donn))
 - [x] [Support for hierarchical object search with slashes](opensta/hier-obj-search.md) ($1000, claimed by [AdvaySingh1](https://github.com/AdvaySingh1), to be paid out)
 
@@ -105,7 +105,7 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 
 | Username          | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-------------------|-------------------|--------------------|--------------|--------------|
-| vs34              | $1000             | $0                 | $0           | $1050        |
+| vs34              | $0                | $1050              | $0           | $1050        |
 | AdvaySingh1       | $0                | $1000              | $0           | $1000        |
 | povik             | $1000             | $0                 | $0           | $1000        |
 | nataliakokoromyti | $0                | $200               | $0           | $200         |
