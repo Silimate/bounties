@@ -98,7 +98,7 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 - [ ] FEATURE: Input/output internal power ($100)
 - [ ] FEATURE: Reporting: deduplicate by word ($100)
 - [x] FEATURE: Report power as JSON ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
-- [ ] FEATURE: Strip escaped bus ($100, interest from [AdvaySingh1](https://github.com/AdvaySingh1))
+- [ ] FEATURE: Strip escaped bus ($100)
 - [ ] FEATURE: Support for Liberty generated clocks, see https://github.com/Silimate/OpenSTA/pull/28 and https://github.com/Silimate/OpenSTA/pull/30 ($100)
 
 ## Balances/Leaderboard
