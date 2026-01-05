@@ -103,10 +103,10 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 
 ## Balances/Leaderboard
 
-| Username          | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
-|-------------------|-------------------|--------------------|--------------|--------------|
-| vs34              | $0                | $1050              | $0           | $1050        |
-| AdvaySingh1       | $0                | $1000              | $0           | $1000        |
-| povik             | $1000             | $0                 | $0           | $1000        |
-| dhvll             | $450              | $0                 | $0           | $450         |
-| nataliakokoromyti | $0                | $200               | $0           | $200         |
+| Username                                                  | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
+|-----------------------------------------------------------|-------------------|--------------------|--------------|--------------|
+| [vs34](https://github.com/vs34)                           | $0                | $1050              | $0           | $1050        |
+| [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $1000              | $0           | $1000        |
+| [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
+| [dhvll](https://github.com/dhvll)                         | $450              | $0                 | $0           | $450         |
+| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $0                | $200               | $0           | $200         |
