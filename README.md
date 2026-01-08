@@ -84,7 +84,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [x] FEATURE: `verific -set_relaxed_file_libext_modes` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
 - [x] FEATURE: `verific -ignore_module` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
 - [x] FEATURE: `verific -set_vhdl_default_library_path` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
-- [ ] FEATURE: Verific mixed SV-VHDL support ($100)
+- [ ] FEATURE: Verific mixed SV-VHDL support ($75)
 
 ### OpenSTA
 
