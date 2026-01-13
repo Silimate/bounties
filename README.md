@@ -16,13 +16,13 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 ## OpenSTA
 
-- [x] [Prune CCS information from Liberty files to load them faster](opensta/liberty-ccs-pruning.md) ($1000, claimed by [vs34](https://github.com/vs34), to be paid out)
+- [x] [Prune CCS information from Liberty files to load them faster](opensta/liberty-ccs-pruning.md) ($1000, claimed by [vs34](https://github.com/vs34))
 - [x] [Support for fast object collections](opensta/fast-collections.md): see https://www.intel.com/content/www/us/en/docs/programmable/683243/21-3/collection-commands.html (being implemented by [donn](https://github.com/donn))
-- [x] [Support for hierarchical object search with slashes](opensta/hier-obj-search.md) ($1000, claimed by [AdvaySingh1](https://github.com/AdvaySingh1), to be paid out)
+- [x] [Support for hierarchical object search with slashes](opensta/hier-obj-search.md) ($1000, claimed by [AdvaySingh1](https://github.com/AdvaySingh1))
 
 ## GTKWave
 
-- [ ] [Support for Broadway backend instead of X11/XQuartz](gtkwave/broadway-backend.md) ($1000-3000, interest from [nataliakokoromyti](https://github.com/nataliakokoromyti))
+- [x] [Support for Broadway backend instead of X11/XQuartz](gtkwave/broadway-backend.md) ($1000, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), being reviewed/validated)
 - [ ] [Support for Waveform Control Protocol (WCP)](gtkwave/wcp.md) ($1000-2000, interest from [nataliakokoromyti](https://github.com/nataliakokoromyti))
 - [ ] [Support for dynamically compiling/loading an FSDB extension OR create a fast `fsdb2fst`](gtkwave/dynamic-fsdb.md) ($2000-3000)
 
@@ -32,9 +32,9 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 ## SV Tests
 
-- [ ] Add [chimera](https://github.com/Silimate/chimera) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250)
-- [ ] Add [verismith](https://github.com/Silimate/verismith) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250)
-- [ ] Add [vloghammer](https://github.com/Silimate/vloghammer) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250)
+- [ ] Add [chimera](https://github.com/Silimate/chimera) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, interest from [vs34](https://github.com/vs34))
+- [ ] Add [verismith](https://github.com/Silimate/verismith) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, interest from [vs34](https://github.com/vs34))
+- [ ] Add [vloghammer](https://github.com/Silimate/vloghammer) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, interest from [vs34](https://github.com/vs34))
 
 ## Open-source Liaison
 
@@ -63,7 +63,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [ ] FEATURE: abc module-level parallelism ($100)
 - [ ] FEATURE: abc src back-annotation, SIGABRT on failures ($100)
 - [ ] FEATURE: `lut2mux -word` ($50)
-- [ ] FEATURE: `lut2bmux` ($50)
+- [x] FEATURE: `lut2bmux` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [ ] FEATURE: `splitlarge` ($50)
 - [ ] FEATURE: `opt_balance_tree` ($100)
 - [ ] FEATURE: `breaksop` ($50)
@@ -105,8 +105,8 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 
 | Username                                                  | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-----------------------------------------------------------|-------------------|--------------------|--------------|--------------|
-| [vs34](https://github.com/vs34)                           | $0                | $1050              | $0           | $1050        |
-| [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $1000              | $0           | $1000        |
+| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $1000             | $250               | $0           | $1250        |
+| [vs34](https://github.com/vs34)                           | $0                | $0                 | $1050        | $1050        |
+| [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $0                 | $1000        | $1000        |
 | [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
 | [dhvll](https://github.com/dhvll)                         | $450              | $0                 | $0           | $450         |
-| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $0                | $200               | $0           | $200         |
