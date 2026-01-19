@@ -95,10 +95,10 @@ Fork: https://github.com/Silimate/OpenSTA
 Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA:main
 
 - [ ] FEATURE: Support for hierarchical object search with slashes ($50)
-- [ ] FEATURE: Input/output internal power ($100)
-- [ ] FEATURE: Reporting: deduplicate by word ($100)
+- [x] FEATURE: Input/output internal power ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
+- [x] FEATURE: Reporting: deduplicate by word ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: Report power as JSON ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
-- [ ] FEATURE: Strip escaped bus ($100)
+- [x] FEATURE: Strip escaped bus ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [ ] FEATURE: Support for Liberty generated clocks, see https://github.com/Silimate/OpenSTA/pull/28 and https://github.com/Silimate/OpenSTA/pull/30 ($100)
 
 ## Balances/Leaderboard
@@ -106,7 +106,7 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 | Username                                                  | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-----------------------------------------------------------|-------------------|--------------------|--------------|--------------|
 | [vs34](https://github.com/vs34)                           | $250              | $250               | $1050        | $1550        |
-| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $1000             | $250               | $0           | $1250        |
+| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $1300             | $250               | $0           | $1550        |
 | [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $0                 | $1000        | $1000        |
 | [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
 | [dhvll](https://github.com/dhvll)                         | $450              | $0                 | $0           | $450         |
