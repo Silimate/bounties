@@ -32,9 +32,9 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 ## SV Tests
 
-- [ ] Add [chimera](https://github.com/Silimate/chimera) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, interest from [vs34](https://github.com/vs34))
+- [x] Add [chimera](https://github.com/Silimate/chimera) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, claimed by [vs34](https://github.com/vs34), in review)
 - [ ] Add [verismith](https://github.com/Silimate/verismith) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, interest from [vs34](https://github.com/vs34))
-- [x] Add [vloghammer](https://github.com/Silimate/vloghammer) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, claimed by [vs34](https://github.com/vs34))
+- [x] Add [vloghammer](https://github.com/Silimate/vloghammer) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, claimed by [vs34](https://github.com/vs34), to be paid out)
 
 ## Open-source Liaison
 
@@ -105,7 +105,7 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 
 | Username                                                  | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-----------------------------------------------------------|-------------------|--------------------|--------------|--------------|
-| [vs34](https://github.com/vs34)                           | $0                | $250               | $1050        | $1250        |
+| [vs34](https://github.com/vs34)                           | $250              | $250               | $1050        | $1250        |
 | [nataliakokoromyti](https://github.com/nataliakokoromyti) | $1000             | $250               | $0           | $1250        |
 | [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $0                 | $1000        | $1000        |
 | [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
