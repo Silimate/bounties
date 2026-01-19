@@ -105,7 +105,7 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 
 | Username                                                  | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-----------------------------------------------------------|-------------------|--------------------|--------------|--------------|
-| [vs34](https://github.com/vs34)                           | $250              | $250               | $1050        | $1250        |
+| [vs34](https://github.com/vs34)                           | $250              | $250               | $1050        | $1550        |
 | [nataliakokoromyti](https://github.com/nataliakokoromyti) | $1000             | $250               | $0           | $1250        |
 | [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $0                 | $1000        | $1000        |
 | [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
