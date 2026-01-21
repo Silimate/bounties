@@ -7,7 +7,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 ## Yosys
 
 - [x] [Run `abc` on different modules in parallel](yosys/abc-module-parallelism.md) (implemented by [akashlevy](https://github.com/akashlevy))
-- [x] [Arithmetic optimization pass](yosys/arith-opt-pass.md) ($2000-6000, being implemented by [tondapusili](https://github.com/tondapusili))
+- [x] [Arithmetic optimization pass](yosys/arith-opt-pass.md) (being implemented by [tondapusili](https://github.com/tondapusili))
 - [x] [Make `timeest` pass work for combinational logic](yosys/timeest-comb.md) ($1000, claimed by [povik](https://github.com/povik), being reviewed/validated)
 
 ## ABC
@@ -33,7 +33,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 ## SV Tests
 
 - [x] Add [chimera](https://github.com/Silimate/chimera) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, claimed by [vs34](https://github.com/vs34), to be paid out)
-- [ ] Add [verismith](https://github.com/Silimate/verismith) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, interest from [vs34](https://github.com/vs34))
+- [x] Add [verismith](https://github.com/Silimate/verismith) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, claimed by [vs34](https://github.com/vs34), to be paid out)
 - [x] Add [vloghammer](https://github.com/Silimate/vloghammer) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, claimed by [vs34](https://github.com/vs34), to be paid out)
 
 ## Open-source Liaison
@@ -65,12 +65,12 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [ ] FEATURE: `lut2mux -word` ($50)
 - [x] FEATURE: `lut2bmux` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [ ] FEATURE: `splitlarge` ($50)
-- [ ] FEATURE: `opt_balance_tree` ($100)
+- [x] FEATURE: `opt_balance_tree` ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [ ] FEATURE: `breaksop` ($50)
 - [ ] FEATURE: `breakreduce` ($50)
 - [ ] FEATURE: `wreduce` traversal ($100)
 - [ ] FEATURE: `equiv -nocells` ($50)
-- [ ] FEATURE: `debugon` ($50)
+- [x] FEATURE: `debugon` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [ ] FEATURE: `splitnets -ports_only -top_only` ($75)
 - [ ] FEATURE: Backtrace ($50)
 - [ ] FEATURE: `design.run_pass` ($50)
@@ -105,8 +105,8 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 
 | Username                                                  | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-----------------------------------------------------------|-------------------|--------------------|--------------|--------------|
-| [vs34](https://github.com/vs34)                           | $0                | $500               | $1050        | $1550        |
-| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $1300             | $250               | $0           | $1550        |
+| [vs34](https://github.com/vs34)                           | $0                | $750               | $1050        | $1800        |
+| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $1300             | $400               | $0           | $1700        |
 | [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $0                 | $1000        | $1000        |
 | [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
 | [dhvll](https://github.com/dhvll)                         | $450              | $0                 | $0           | $450         |
