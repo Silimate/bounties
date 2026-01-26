@@ -62,7 +62,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [ ] FEATURE: `abc -word` ($50)
 - [ ] FEATURE: abc module-level parallelism ($100)
 - [ ] FEATURE: abc src back-annotation, SIGABRT on failures ($100)
-- [ ] FEATURE: `lut2mux -word` ($50)
+- [x] FEATURE: `lut2mux -word` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] FEATURE: `lut2bmux` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [ ] FEATURE: `splitlarge` ($50)
 - [x] FEATURE: `opt_balance_tree` ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
@@ -106,7 +106,7 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 | Username                                                  | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-----------------------------------------------------------|-------------------|--------------------|--------------|--------------|
 | [vs34](https://github.com/vs34)                           | $0                | $750               | $1050        | $1800        |
-| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $1300             | $400               | $0           | $1700        |
+| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $1300             | $450               | $0           | $1750        |
 | [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $0                 | $1000        | $1000        |
 | [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
 | [dhvll](https://github.com/dhvll)                         | $450              | $0                 | $0           | $450         |
