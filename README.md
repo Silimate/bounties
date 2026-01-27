@@ -57,6 +57,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [x] BUGFIX: `undef ID` ($50, claimed by [vs34](https://github.com/vs34), to be paid out)
 - [x] BUGFIX: Verific `run-test.sh` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] SMALLFIX: `ice40_wrapcarry` attribute abort fix for src attribute ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
+- [ ] SMALLFIX: `#include <unistd.h>` in `linux_perf.cc` ($50)
 - [ ] FEATURE: New naming scheme ($100)
 - [ ] FEATURE: src attribute propagation ($100)
 - [ ] FEATURE: `abc -word` ($50)
