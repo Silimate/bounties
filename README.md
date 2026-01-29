@@ -23,7 +23,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 ## GTKWave
 
 - [x] [Support for Broadway backend instead of X11/XQuartz](gtkwave/broadway-backend.md) ($1000, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), being reviewed/validated)
-- [ ] [Support for Waveform Control Protocol (WCP)](gtkwave/wcp.md) ($1000-2000, interest from [nataliakokoromyti](https://github.com/nataliakokoromyti))
+- [x] [Support for Waveform Control Protocol (WCP)](gtkwave/wcp.md) ($1000, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), being reviewed/validated)
 - [ ] [Support for dynamically compiling/loading an FSDB extension OR create a fast `fsdb2fst`](gtkwave/dynamic-fsdb.md) ($2000-3000)
 
 ## Nuitka
@@ -107,7 +107,7 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 | Username                                                  | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-----------------------------------------------------------|-------------------|--------------------|--------------|--------------|
 | [vs34](https://github.com/vs34)                           | $0                | $750               | $1050        | $1800        |
-| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $1300             | $450               | $0           | $1750        |
+| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $2300             | $450               | $0           | $1750        |
 | [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $0                 | $1000        | $1000        |
 | [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
 | [dhvll](https://github.com/dhvll)                         | $450              | $0                 | $0           | $450         |
