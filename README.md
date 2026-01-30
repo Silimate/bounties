@@ -85,7 +85,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [x] FEATURE: `verific -set_relaxed_file_libext_modes` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
 - [x] FEATURE: `verific -ignore_module` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
 - [x] FEATURE: `verific -set_vhdl_default_library_path` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
-- [ ] FEATURE: Verific mixed SV-VHDL support ($75)
+- [x] FEATURE: Verific mixed SV-VHDL support ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 
 ### OpenSTA
 
@@ -96,9 +96,9 @@ Fork: https://github.com/Silimate/OpenSTA
 Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA:main
 
 - [ ] FEATURE: Support for hierarchical object search with slashes ($50)
+- [x] FEATURE: Report power as JSON ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] FEATURE: Input/output internal power ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: Reporting: deduplicate by word ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
-- [x] FEATURE: Report power as JSON ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] FEATURE: Strip escaped bus ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [ ] FEATURE: Support for Liberty generated clocks, see https://github.com/Silimate/OpenSTA/pull/28 and https://github.com/Silimate/OpenSTA/pull/30 ($100)
 
@@ -106,8 +106,8 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 
 | Username                                                  | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-----------------------------------------------------------|-------------------|--------------------|--------------|--------------|
+| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $2300             | $550               | $0           | $2850        |
 | [vs34](https://github.com/vs34)                           | $0                | $750               | $1050        | $1800        |
-| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $2300             | $450               | $0           | $1750        |
 | [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $0                 | $1000        | $1000        |
 | [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
 | [dhvll](https://github.com/dhvll)                         | $450              | $0                 | $0           | $450         |
