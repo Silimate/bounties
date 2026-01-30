@@ -63,15 +63,11 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [ ] FEATURE: `abc -word` ($50)
 - [ ] FEATURE: abc module-level parallelism ($100)
 - [ ] FEATURE: abc src back-annotation, SIGABRT on failures ($100)
-- [x] FEATURE: `lut2mux -word` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
-- [x] FEATURE: `lut2bmux` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [ ] FEATURE: `splitlarge` ($50)
-- [x] FEATURE: `opt_balance_tree` ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [ ] FEATURE: `breaksop` ($50)
 - [ ] FEATURE: `breakreduce` ($50)
 - [ ] FEATURE: `wreduce` traversal ($100)
 - [ ] FEATURE: `equiv -nocells` ($50)
-- [x] FEATURE: `debugon` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [ ] FEATURE: `splitnets -ports_only -top_only` ($75)
 - [ ] FEATURE: Backtrace ($50)
 - [ ] FEATURE: `design.run_pass` ($50)
@@ -85,6 +81,10 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [x] FEATURE: `verific -set_relaxed_file_libext_modes` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
 - [x] FEATURE: `verific -ignore_module` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
 - [x] FEATURE: `verific -set_vhdl_default_library_path` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
+- [x] FEATURE: `debugon` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
+- [x] FEATURE: `lut2mux -word` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
+- [x] FEATURE: `lut2bmux` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
+- [x] FEATURE: `opt_balance_tree` ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] FEATURE: Verific mixed SV-VHDL support ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 
 ### OpenSTA
@@ -95,12 +95,12 @@ Fork: https://github.com/Silimate/OpenSTA
 
 Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA:main
 
+- [ ] FEATURE: Support for Liberty generated clocks, see https://github.com/Silimate/OpenSTA/pull/28 and https://github.com/Silimate/OpenSTA/pull/30 ($100)
 - [ ] FEATURE: Support for hierarchical object search with slashes ($50)
-- [x] FEATURE: Report power as JSON ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] FEATURE: Input/output internal power ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: Reporting: deduplicate by word ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: Strip escaped bus ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
-- [ ] FEATURE: Support for Liberty generated clocks, see https://github.com/Silimate/OpenSTA/pull/28 and https://github.com/Silimate/OpenSTA/pull/30 ($100)
+- [x] FEATURE: Report power as JSON ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 
 ## Balances/Leaderboard
 
