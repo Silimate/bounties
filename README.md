@@ -56,8 +56,8 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 
 - [x] BUGFIX: `undef ID` ($50, claimed by [vs34](https://github.com/vs34), to be paid out)
 - [x] BUGFIX: Verific `run-test.sh` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
+- [x] BUGFIX: `#include <unistd.h>` in `linux_perf.cc` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] SMALLFIX: `ice40_wrapcarry` attribute abort fix for src attribute ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
-- [ ] SMALLFIX: `#include <unistd.h>` in `linux_perf.cc` ($50)
 - [ ] FEATURE: New naming scheme ($100)
 - [ ] FEATURE: src attribute propagation ($100)
 - [ ] FEATURE: `abc -word` ($50)
@@ -106,7 +106,7 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 
 | Username                                                  | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-----------------------------------------------------------|-------------------|--------------------|--------------|--------------|
-| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $2300             | $550               | $0           | $2850        |
+| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $2300             | $600               | $0           | $2900        |
 | [vs34](https://github.com/vs34)                           | $0                | $750               | $1050        | $1800        |
 | [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $0                 | $1000        | $1000        |
 | [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
