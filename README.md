@@ -54,7 +54,7 @@ Fork: https://github.com/Silimate/yosys
 
 Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 
-- [x] BUGFIX: `undef ID` ($50, claimed by [vs34](https://github.com/vs34), to be paid out)
+- [x] BUGFIX: `undef ID` ($50, claimed by [vs34](https://github.com/vs34))
 - [x] BUGFIX: Verific `run-test.sh` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] BUGFIX: `#include <unistd.h>` in `linux_perf.cc` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] SMALLFIX: `ice40_wrapcarry` attribute abort fix for src attribute ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
