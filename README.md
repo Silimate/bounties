@@ -58,20 +58,18 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [x] BUGFIX: Verific `run-test.sh` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] BUGFIX: `#include <unistd.h>` in `linux_perf.cc` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] SMALLFIX: `ice40_wrapcarry` attribute abort fix for src attribute ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
-- [ ] FEATURE: New naming scheme ($100)
-- [ ] FEATURE: src attribute propagation ($100)
-- [ ] FEATURE: `abc -word` ($50)
-- [ ] FEATURE: abc module-level parallelism ($100)
-- [ ] FEATURE: abc src back-annotation, SIGABRT on failures ($100)
-- [ ] FEATURE: `splitlarge` ($50)
-- [ ] FEATURE: `breaksop` ($50)
-- [ ] FEATURE: `breakreduce` ($50)
-- [ ] FEATURE: `wreduce` traversal ($100)
-- [ ] FEATURE: `equiv -nocells` ($50)
-- [ ] FEATURE: `splitnets -ports_only -top_only` ($75)
-- [ ] FEATURE: Backtrace ($50)
-- [ ] FEATURE: `design.run_pass` ($50)
-- [ ] FEATURE: RTLIL dumping/hashing ($50)
+- [ ] BIGFEATURE: New naming scheme ($200)
+- [ ] BIGFEATURE: src attribute propagation ($200)
+- [ ] FEATURE: `splitnets -ports_only -top_only` ($50)
+- [x] FEATURE: abc module-level parallelism ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
+- [x] FEATURE: `splitlarge` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
+- [x] FEATURE: `breaksop` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
+- [x] FEATURE: `abc -word` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
+- [x] FEATURE: `breakreduce` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
+- [x] FEATURE: `wreduce` traversal ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
+- [x] FEATURE: `design.run_pass` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
+- [x] FEATURE: `equiv -nocells` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
+- [x] FEATURE: RTLIL dumping/hashing ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: Verilog backend split long lines ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
 - [x] FEATURE: `verific -optimization` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
 - [x] FEATURE: `verific -no_split_complex_ports` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
@@ -106,7 +104,7 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 
 | Username                                                  | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-----------------------------------------------------------|-------------------|--------------------|--------------|--------------|
-| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $2300             | $600               | $0           | $2900        |
+| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $2800             | $600               | $0           | $3400        |
 | [vs34](https://github.com/vs34)                           | $0                | $750               | $1050        | $1800        |
 | [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $0                 | $1000        | $1000        |
 | [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
