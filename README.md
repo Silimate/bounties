@@ -93,7 +93,7 @@ Fork: https://github.com/Silimate/OpenSTA
 
 Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA:main
 
-- [ ] FEATURE: Support for Liberty generated clocks, see https://github.com/Silimate/OpenSTA/pull/28 and https://github.com/Silimate/OpenSTA/pull/30 ($100)
+- [ ] FEATURE: Support for Liberty generated clocks, see https://github.com/Silimate/OpenSTA/pull/28, https://github.com/Silimate/OpenSTA/pull/30, https://github.com/Silimate/OpenSTA/pull/34, https://github.com/Silimate/OpenSTA/pull/36 ($100)
 - [x] FEATURE: Input/output internal power ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: Reporting: deduplicate by word ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: Strip escaped bus ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
