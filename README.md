@@ -58,7 +58,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [x] BUGFIX: Verific `run-test.sh` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] BUGFIX: `#include <unistd.h>` in `linux_perf.cc` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] SMALLFIX: `ice40_wrapcarry` attribute abort fix for src attribute ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
-- [ ] BREAKING CHANGE: New naming scheme with `NEW_ID2` etc., most likely will want to feature gate this with defines for backwards compatibility ($300)
+- [ ] BIG FEATURE: New naming scheme with `NEW_ID2` etc., most likely will want to feature gate this with defines for backwards compatibility ($300)
 - [ ] BIG FEATURE: `src` attribute propagation across passes ($200)
 - [ ] FEATURE: `splitnets -ports_only -top_only` ($50)
 - [x] FEATURE: abc module-level parallelism ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
