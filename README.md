@@ -67,7 +67,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [x] FEATURE: `abc -word` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: `breakreduce` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: `wreduce` traversal ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
-- [x] FEATURE: `design.run_pass` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
+- [x] FEATURE: `design.run_pass` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] FEATURE: `equiv -nocells` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: RTLIL dumping/hashing ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: Verilog backend split long lines ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
@@ -103,7 +103,7 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 
 | Username                                                  | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-----------------------------------------------------------|-------------------|--------------------|--------------|--------------|
-| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $2800             | $600               | $0           | $3400        |
+| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $2750             | $650               | $0           | $3400        |
 | [vs34](https://github.com/vs34)                           | $0                | $750               | $1050        | $1800        |
 | [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $0                 | $1000        | $1000        |
 | [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
