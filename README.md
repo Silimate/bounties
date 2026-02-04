@@ -60,7 +60,6 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [x] SMALLFIX: `ice40_wrapcarry` attribute abort fix for src attribute ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [ ] BIG FEATURE: New naming scheme with `NEW_ID2` etc., most likely will want to feature gate this with defines for backwards compatibility ($300)
 - [ ] BIG FEATURE: `src` attribute propagation across passes ($200)
-- [ ] FEATURE: `splitnets -ports_only -top_only` ($50)
 - [x] FEATURE: abc module-level parallelism ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: `splitlarge` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: `breaksop` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
@@ -79,6 +78,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [x] FEATURE: `verific -set_relaxed_file_libext_modes` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
 - [x] FEATURE: `verific -ignore_module` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
 - [x] FEATURE: `verific -set_vhdl_default_library_path` ($50, claimed by [dhvll](https://github.com/dhvll), in review upstream)
+- [x] FEATURE: `splitnets -ports_only -top_only` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), rejected upstream, will still pay out)
 - [x] FEATURE: `debugon` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] FEATURE: `lut2mux -word` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] FEATURE: `lut2bmux` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
@@ -103,7 +103,7 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 
 | Username                                                  | In Review Balance | To Be Paid Balance | Paid Balance | Total Bounty |
 |-----------------------------------------------------------|-------------------|--------------------|--------------|--------------|
-| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $2750             | $650               | $0           | $3400        |
+| [nataliakokoromyti](https://github.com/nataliakokoromyti) | $2750             | $700               | $0           | $3450        |
 | [vs34](https://github.com/vs34)                           | $0                | $750               | $1050        | $1800        |
 | [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $0                 | $1000        | $1000        |
 | [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
