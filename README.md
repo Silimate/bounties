@@ -24,11 +24,10 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 - [x] [Support for Broadway backend instead of X11/XQuartz](gtkwave/broadway-backend.md) ($1000, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), being reviewed/validated)
 - [x] [Support for Waveform Control Protocol (WCP)](gtkwave/wcp.md) ($1000, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), being reviewed/validated)
-- [ ] [Support for dynamically compiling/loading an FSDB extension OR create a fast `fsdb2fst`](gtkwave/dynamic-fsdb.md) ($2000-3000)
 
 ## Nuitka
 
-- [ ] Caching of Python -> C sources ($1000-3000)
+- [x] Caching of Python -> C sources ($1000-3000, being implemented by [akashlevy](https://github.com/akashlevy))
 
 ## SV Tests
 
@@ -58,8 +57,6 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [x] BUGFIX: Verific `run-test.sh` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] BUGFIX: `#include <unistd.h>` in `linux_perf.cc` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] SMALLFIX: `ice40_wrapcarry` attribute abort fix for src attribute ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
-- [ ] BIG FEATURE: New naming scheme with `NEW_ID2` etc., most likely will want to feature gate this with defines for backwards compatibility ($300)
-- [ ] BIG FEATURE: `src` attribute propagation across passes ($200)
 - [x] FEATURE: abc module-level parallelism ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: `splitlarge` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: `breaksop` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
@@ -84,6 +81,8 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [x] FEATURE: `lut2bmux` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] FEATURE: `opt_balance_tree` ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] FEATURE: Verific mixed SV-VHDL support ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
+- [ ] BIG FEATURE: New naming scheme with `NEW_ID2` etc., most likely will want to feature gate this with defines for backwards compatibility ($300)
+- [ ] BIG FEATURE: `src` attribute propagation across passes ($200)
 
 ### OpenSTA
 
@@ -93,11 +92,11 @@ Fork: https://github.com/Silimate/OpenSTA
 
 Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA:main
 
-- [ ] FEATURE: Support for Liberty generated clocks, see https://github.com/Silimate/OpenSTA/pull/28, https://github.com/Silimate/OpenSTA/pull/30, https://github.com/Silimate/OpenSTA/pull/34, https://github.com/Silimate/OpenSTA/pull/36 ($100)
 - [x] FEATURE: Input/output internal power ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: Reporting: deduplicate by word ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: Strip escaped bus ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: Report power as JSON ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
+- [ ] FEATURE: Support for Liberty generated clocks, see https://github.com/Silimate/OpenSTA/pull/28, https://github.com/Silimate/OpenSTA/pull/30, https://github.com/Silimate/OpenSTA/pull/34, https://github.com/Silimate/OpenSTA/pull/36 ($100)
 
 ## Balances/Leaderboard
 
