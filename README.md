@@ -7,12 +7,12 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 ## Yosys
 
 - [x] [Run `abc` on different modules in parallel](yosys/abc-module-parallelism.md) (implemented by [akashlevy](https://github.com/akashlevy))
-- [x] [Arithmetic optimization pass](yosys/arith-opt-pass.md) (being implemented by [tondapusili](https://github.com/tondapusili))
+- [x] [Arithmetic optimization pass](yosys/arith-opt-pass.md) (implemented by [tondapusili](https://github.com/tondapusili))
 - [x] [Make `timeest` pass work for combinational logic](yosys/timeest-comb.md) ($1000, claimed by [povik](https://github.com/povik), being reviewed/validated)
 
 ## ABC
 
-- [x] [Retain original node associations while running optimization commands](abc/node-associations.md) (being implemented by [AdvaySingh1](https://github.com/AdvaySingh1))
+- [x] [Retain original node associations while running optimization commands](abc/node-associations.md) (implemented by [AdvaySingh1](https://github.com/AdvaySingh1))
 
 ## OpenSTA
 
@@ -27,7 +27,7 @@ Completion of one of the technical bounties worth >$1000 qualifies you for a fin
 
 ## Nuitka
 
-- [x] Caching of Python -> C sources ($1000-3000, being implemented by [akashlevy](https://github.com/akashlevy))
+- [x] Caching of Python -> C sources ($1000-3000, implemented by [akashlevy](https://github.com/akashlevy))
 
 ## SV Tests
 
