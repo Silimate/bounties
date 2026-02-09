@@ -96,7 +96,7 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 - [x] FEATURE: Reporting: deduplicate by word ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: Strip escaped bus ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), in review upstream)
 - [x] FEATURE: Report power as JSON ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
-- [ ] FEATURE: Support for Liberty generated clocks, see https://github.com/Silimate/OpenSTA/pull/28, https://github.com/Silimate/OpenSTA/pull/30, https://github.com/Silimate/OpenSTA/pull/34, https://github.com/Silimate/OpenSTA/pull/36 ($100)
+- [x] FEATURE: Support for Liberty generated clocks, see https://github.com/Silimate/OpenSTA/pull/28, https://github.com/Silimate/OpenSTA/pull/30, https://github.com/Silimate/OpenSTA/pull/34, https://github.com/Silimate/OpenSTA/pull/36 ($100, claimed by [markram1729](https://github.com/markram1729), in review upstream)
 
 ## Balances/Leaderboard
 
@@ -107,3 +107,4 @@ Compare: https://github.com/parallaxsw/OpenSTA/compare/master...Silimate:OpenSTA
 | [AdvaySingh1](https://github.com/AdvaySingh1)             | $0                | $0                 | $1000        | $1000        |
 | [povik](https://github.com/povik)                         | $1000             | $0                 | $0           | $1000        |
 | [dhvll](https://github.com/dhvll)                         | $450              | $0                 | $0           | $450         |
+| [markram1729](https://github.com/markram1729)             | $100              | $0                 | $0           | $100         |
