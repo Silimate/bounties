@@ -81,8 +81,8 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [x] FEATURE: `lut2bmux` ($50, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] FEATURE: `opt_balance_tree` ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
 - [x] FEATURE: Verific mixed SV-VHDL support ($100, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), to be paid out)
-- [ ] BIG FEATURE: New naming scheme with `NEW_ID2` etc., most likely will want to feature gate this with defines for backwards compatibility ($300)
 - [ ] BIG FEATURE: `src` attribute propagation across passes ($200)
+- [ ] BIG FEATURE: New naming scheme with `NEW_ID2` etc., most likely will want to feature gate this with defines for backwards compatibility ($300)
 
 ### OpenSTA
 
