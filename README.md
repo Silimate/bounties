@@ -4,32 +4,32 @@ This is a list of open-source bounties that would be useful to Silimate. Please 
 
 Completion of one of the technical bounties worth >$1000 qualifies you for a final-round interview with Silimate, if you'd like to apply for any full-time/intern position with us.
 
-## Yosys
+## Yosys (0 open)
 
 - [x] [Run `abc` on different modules in parallel](yosys/abc-module-parallelism.md) (implemented by [akashlevy](https://github.com/akashlevy))
 - [x] [Arithmetic optimization pass](yosys/arith-opt-pass.md) (implemented by [tondapusili](https://github.com/tondapusili))
 - [x] [Make `timeest` pass work for combinational logic](yosys/timeest-comb.md) ($1000, claimed by [povik](https://github.com/povik), being reviewed/validated)
 
-## ABC
+## ABC (0 open)
 
 - [x] [Retain original node associations while running optimization commands](abc/node-associations.md) (implemented by [AdvaySingh1](https://github.com/AdvaySingh1))
 
-## OpenSTA
+## OpenSTA (0 open)
 
 - [x] [Prune CCS information from Liberty files to load them faster](opensta/liberty-ccs-pruning.md) ($1000, claimed by [vs34](https://github.com/vs34))
 - [x] [Support for fast object collections](opensta/fast-collections.md): see https://www.intel.com/content/www/us/en/docs/programmable/683243/21-3/collection-commands.html (being implemented by [donn](https://github.com/donn))
 - [x] [Support for hierarchical object search with slashes](opensta/hier-obj-search.md) ($1000, claimed by [AdvaySingh1](https://github.com/AdvaySingh1))
 
-## GTKWave
+## GTKWave (0 open)
 
 - [x] [Support for Broadway backend instead of X11/XQuartz](gtkwave/broadway-backend.md) ($1000, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), being reviewed/validated)
 - [x] [Support for Waveform Control Protocol (WCP)](gtkwave/wcp.md) ($1000, claimed by [nataliakokoromyti](https://github.com/nataliakokoromyti), being reviewed/validated)
 
-## Nuitka
+## Nuitka (0 open)
 
 - [x] Caching of Python -> C sources ($1000-3000, implemented by [akashlevy](https://github.com/akashlevy))
 
-## SV Tests
+## SV Tests (0 open)
 
 - [x] Add [chimera](https://github.com/Silimate/chimera) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, claimed by [vs34](https://github.com/vs34), to be paid out)
 - [x] Add [verismith](https://github.com/Silimate/verismith) tests to [sv-tests](https://github.com/chipsalliance/sv-tests) ($250, claimed by [vs34](https://github.com/vs34), to be paid out)
@@ -45,7 +45,7 @@ However, we currently have a large number of changes in our forks that we would 
 
 If you try to upstream one of these but it gets rejected, please contact us anyways. We may still pay out a partial bounty as a thank you (at our discretion).
 
-### Yosys
+### Yosys (2 open)
 
 Upstream: https://github.com/YosysHQ/yosys
 
@@ -84,7 +84,7 @@ Compare: https://github.com/YosysHQ/yosys/compare/main...Silimate:yosys:main
 - [ ] BIG FEATURE: `src` attribute propagation across passes ($200)
 - [ ] BIG FEATURE: New naming scheme with `NEW_ID2` etc., most likely will want to feature gate this with defines for backwards compatibility ($300)
 
-### OpenSTA
+### OpenSTA (0 open)
 
 Upstream: https://github.com/parallaxsw/OpenSTA
 
